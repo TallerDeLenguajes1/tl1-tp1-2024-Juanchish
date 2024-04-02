@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// a)función que devuelva el cuadrado de un número
+//a)función que devuelva el cuadrado de un número
 int cuadrado(int num);
 int cuadrado(int num) {
     return num * num;
